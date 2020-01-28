@@ -2,8 +2,12 @@
 
 Links:
 
-- [Yandex docs](https://tech.yandex.ru/maps/jsapi/doc/2.1/faq/index-docpage/) – yandex api.
+- [Yandex docs](https://tech.yandex.ru/maps/jsapi/doc/2.1/faq/index-docpage/) – yandex api docs.
+- [Yandex developer](https://developer.tech.yandex.ru/services/3/stat/) – yandex api developer.
 - [Youtube Api yandex](https://www.youtube.com/watch?v=QkfUqb2XFRw) – Использование API Яндекс.Карт на сайте.
+- [Yandex sandbox](https://tech.yandex.ru/maps/jsbox/2.1/polygon_with_image)
+
+
 - [Creating an App](#creating-an-app) – How to create a new app.
 - [Create react app gh pages](https://www.youtube.com/watch?v=1Y-PqBH-htk) – How ghpages.
 
@@ -36,4 +40,5 @@ add in package.json "deploy": "gh-pages -d build",
 npm run deploy
 add api script of yandex and main script e.t.c.
 add main.js
+add img, css
 ```
